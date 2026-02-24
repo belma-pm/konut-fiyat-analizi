@@ -1,18 +1,17 @@
-🏠 Konut Fiyat Analizi ve Web Scraping Projesi
+--Konut Fiyat Analizi ve Web Scraping Projesi--
 
 Bu projede, Türkiye'deki konut ilanları web scraping yöntemiyle toplanmış, temizlenmiş ve analiz edilmiştir.  
 Amaç, **ilçelere göre konut fiyatlarını karşılaştırmak** ve **ortalama–medyan farklarını incelemektir**.
 
 
-🎯 Proje Kapsamı
+Proje Kapsamı
 
 - Web scraping ile konut ilanlarının toplanması
 - Farklı ilçelerden ilan verisi oluşturulması
 - Ortalama, medyan ve ilan sayısı analizleri
 - Streamlit ile etkileşimli dashboard oluşturulması
 
-
-🛠️ Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 
 - Python
 - Pandas
@@ -21,7 +20,7 @@ Amaç, **ilçelere göre konut fiyatlarını karşılaştırmak** ve **ortalama�
 - Git & GitHub
 
 
-📊 Yapılan Analizler
+Yapılan Analizler
 
 - Hangi ilçe daha pahalı?
 - İlçelere göre kaç ilan var?
@@ -29,8 +28,7 @@ Amaç, **ilçelere göre konut fiyatlarını karşılaştırmak** ve **ortalama�
 - Tek ilçe scraping mi, çoklu ilçe scraping mi?
 
 
-▶️ Projeyi Çalıştırma
+**Projeyi Çalıştırmak İsterseniz**
 
-```bash
 pip install -r requirements.txt
 streamlit run app.py
